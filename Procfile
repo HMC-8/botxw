@@ -1,1 +1,1 @@
-worker: python botxw.py
+web: python app.py
